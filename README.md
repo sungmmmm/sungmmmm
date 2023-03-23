@@ -31,15 +31,19 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
  
- <h3>👯 Problem Solving</h3>
+ <h3>GitHub Stats</h3>
 
 
  <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=sungmmmm&theme=tokyonight&show_icons=true" width="42%" />
-</a> <br/>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungmmmm&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="42%" />
 </a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungmmmm&exclude_repo=sungmmmm.github.io&layout=compact&theme=tokyonight" width="46%" />
+</a>
+ <br/>
  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sungmmmm&theme=react-dark](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+ <h3>My Hits</h3>
+ 
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsungmmmm&count_bg=%23CE99F1&title_bg=%239F04F1&icon=&icon_color=%23CE99F1&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ 
+ </div>
