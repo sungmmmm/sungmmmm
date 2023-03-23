@@ -8,8 +8,7 @@
 
  <br/>
  <h3> :clipboard: Skill </h3>
-<br/>
- 
+
  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white">
    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
@@ -27,6 +26,7 @@
  <br/>
  <br/>
 <h3>:pencil2: Now Studting </h3>
+ 
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
@@ -34,8 +34,12 @@
  <h3>👯 Problem Solving</h3>
 
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungmmmm&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-  
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungmmmm&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=sungmmmm&theme=tokyonight&show_icons=true" width="42%" />
+</a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
