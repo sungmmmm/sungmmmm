@@ -34,9 +34,12 @@
  <h3>👯 Problem Solving</h3>
 
 
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungmmmm&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
-</a>
-<a href="s">
+ <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=sungmmmm&theme=tokyonight&show_icons=true" width="42%" />
+</a> <br/>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungmmmm&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="42%" />
 </a>
+ 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sungmmmm&theme=react-dark](https://github.com/ashutosh00710/github-readme-activity-graph)
+
