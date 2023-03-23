@@ -1,6 +1,6 @@
 <div align="center">
  
- ![header](https://capsule-render.vercel.app/api?type=cylinder&color=ededf7&height=150&section=header&text=Devemin&fontColor=8776ff&fontSize=70&animation=fadeIn&fontAlignY=55)
+ ![header](https://capsule-render.vercel.app/api?type=cylinder&color=ededf7&height=150&section=header&text=Devmin&fontColor=8776ff&fontSize=70&animation=fadeIn&fontAlignY=55)
  
  <h3> :wave: Introduction </h3>
  안녕하세요~! 백엔드 개발자를 준비하고 잇으며, Spring을 공부중입니다!
