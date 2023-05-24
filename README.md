@@ -31,16 +31,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
  
- <h3>GitHub Stats</h3>
 
-
- <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=sungmmmm&theme=tokyonight&show_icons=true" width="42%" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungmmmm&exclude_repo=sungmmmm.github.io&layout=compact&theme=tokyonight" width="46%" />
-</a>
- <br/>
  
  <h3>My Hits</h3>
  
